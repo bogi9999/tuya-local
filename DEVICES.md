@@ -72,6 +72,7 @@
 - Livn Arosa electric fireplace
 - Magnum MRC floor heating (2 variants)
 - Manissa OWS-02A towel rail
+- ME163 towel rail heating element
 - Mellerware Comfy electric radiator (tested with Medium 1200W)
 - Modern Ember Vibrance XH-BG-15W/30WZKWIFI-10 electric fireplace
 - Modern Flames Orion and Landscape Pro Slim electric fireplaces
